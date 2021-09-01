@@ -1,0 +1,22 @@
+{
+  "files": {
+    "app.js": "/charmander/static/js/app.b8e59170.chunk.js",
+    "app.js.map": "/charmander/static/js/app.b8e59170.chunk.js.map",
+    "runtime~app.js": "/charmander/static/js/runtime~app.be246713.js",
+    "runtime~app.js.map": "/charmander/static/js/runtime~app.be246713.js.map",
+    "static/js/2.8d7e1cbc.chunk.js": "/charmander/static/js/2.8d7e1cbc.chunk.js",
+    "static/js/2.8d7e1cbc.chunk.js.map": "/charmander/static/js/2.8d7e1cbc.chunk.js.map",
+    "favicon-16.png": "/charmander/favicon-16.png",
+    "favicon-32.png": "/charmander/favicon-32.png",
+    "favicon.ico": "/charmander/favicon.ico",
+    "index.html": "/charmander/index.html",
+    "manifest.json": "/charmander/manifest.json",
+    "serve.json": "/charmander/serve.json",
+    "static/js/2.8d7e1cbc.chunk.js.LICENSE.txt": "/charmander/static/js/2.8d7e1cbc.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime~app.be246713.js",
+    "static/js/2.8d7e1cbc.chunk.js",
+    "static/js/app.b8e59170.chunk.js"
+  ]
+}
